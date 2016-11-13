@@ -1,5 +1,6 @@
 from PIL import Image
 
+#Change this number to increase or decrease pixelation. The higher the number the more pixelated
 MOD = 24
 
 im = Image.open("image.jpg")
